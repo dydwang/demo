@@ -1,1 +1,0 @@
-pscp -r E:\vue\clouds\clouds root@39.108.162.102:/usr/SERVE/

@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0db4a5"],{"6edd":function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v(" 部门 ")])},c=[],d={name:"index"},u=d,i=t("2877"),r=Object(i["a"])(u,a,c,!1,null,"4879416a",null);n["default"]=r.exports}}]);
-//# sourceMappingURL=chunk-2d0db4a5.744d8adc.js.map
