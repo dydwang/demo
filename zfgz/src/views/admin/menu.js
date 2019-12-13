@@ -1,0 +1,49 @@
+
+let menu=[
+            {
+                path:'/adminView_course',
+                name:'课程管理',
+                icon:'el-icon-eleme',
+                children:[]
+            },
+            {
+                path:'/adminView_news',
+                name:'新闻管理',
+                icon:'el-icon-eleme',
+                children:[
+                    {
+                        path:'/adminView_news_table',
+                        name:'新闻表格',
+                        icon:'el-icon-eleme',
+                        children:[]
+                    },
+                    {
+                        path:'/adminView_news_create',
+                        name:'创建新闻',
+                        icon:'el-icon-eleme',
+                        children:[]
+                    },
+                ]
+            },
+            {
+                path:'/adminView_teacher',
+                name:'教师管理',
+                icon:'el-icon-eleme',
+                children:[
+                    {
+                        path:'/adminView_teacher_table',
+                        name:'教师表格',
+                        icon:'el-icon-eleme',
+                        children:[]
+                    },
+                    {
+                        path:'/adminView_teacher_examine',
+                        name:'审核',
+                        icon:'el-icon-eleme',
+                        children:[]
+                    },
+                ]
+            },
+]
+
+export default menu

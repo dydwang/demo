@@ -1,0 +1,1 @@
+pscp -r E:\vue\zfgz\zfgz root@39.108.162.102:/usr/SERVE/
